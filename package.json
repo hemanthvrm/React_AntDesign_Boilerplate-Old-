@@ -1,7 +1,7 @@
 {
   "name": "Echo",
   "version": "0.1.0",
-  "Author": "Hemanth(hm543a),KGRVamsi(gk470v)",
+  "Author": "Hemanth",
   "dependencies": {
     "antd": "3.4.0",
     "axios": "^0.18.0",
